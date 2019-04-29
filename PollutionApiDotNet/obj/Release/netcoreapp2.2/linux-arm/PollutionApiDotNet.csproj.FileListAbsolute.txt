@@ -1,0 +1,17 @@
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\libhostpolicy.so
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\libhostfxr.so
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.deps.json
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.runtimeconfig.json
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.runtimeconfig.dev.json
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.dll
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.pdb
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.csprojAssemblyReference.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.csproj.CoreCompileInputs.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.RazorAssemblyInfo.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.RazorAssemblyInfo.cs
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.AssemblyInfoInputs.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.AssemblyInfo.cs
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.dll
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Release\netcoreapp2.2\linux-arm\PollutionApiDotNet.pdb

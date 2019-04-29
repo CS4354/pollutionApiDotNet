@@ -1,0 +1,14 @@
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.deps.json
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.runtimeconfig.json
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.runtimeconfig.dev.json
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.dll
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.pdb
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.csproj.CoreCompileInputs.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.RazorAssemblyInfo.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.RazorAssemblyInfo.cs
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.AssemblyInfoInputs.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.AssemblyInfo.cs
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.dll
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.pdb
+C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.csprojAssemblyReference.cache
