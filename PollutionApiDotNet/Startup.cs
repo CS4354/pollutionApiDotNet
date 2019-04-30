@@ -22,9 +22,16 @@ namespace PollutionApiDotNet
         {
             services.AddDbContext<MarkerContext>(opt =>
                 opt.UseMySql(
-                    Configuration.GetConnectionString("DefaultConnection"),
+                    "server=localhost;port=3306;database=test;user=root",
                     b => b.MigrationsAssembly("AspNetCoreMultipleProject")
                     ));
+
+            services.AddCors(options => options.AddPolicy("AllowOrigin", builder => 
+            {
+                builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+            }));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
@@ -36,13 +43,8 @@ namespace PollutionApiDotNet
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
-
             // app.UseHttpsRedirection();
+            app.UseCors("AllowOrigin"); 
             app.UseMvc();
         }
     }

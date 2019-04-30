@@ -12,3 +12,17 @@ C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionAp
 C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.dll
 C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.pdb
 C:\Users\annie\Documents\Sites\Air-Pollution-Data\PollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.csprojAssemblyReference.cache
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.deps.json
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.runtimeconfig.json
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.runtimeconfig.dev.json
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.dll
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\bin\Debug\netcoreapp2.2\PollutionApiDotNet.pdb
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.csprojAssemblyReference.cache
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.csproj.CoreCompileInputs.cache
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.RazorAssemblyInfo.cache
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.RazorAssemblyInfo.cs
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.AssemblyInfoInputs.cache
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.AssemblyInfo.cs
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.RazorTargetAssemblyInfo.cache
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.dll
+c:\Users\data_\Projects\pollutionApiDotNet\PollutionApiDotNet\obj\Debug\netcoreapp2.2\PollutionApiDotNet.pdb

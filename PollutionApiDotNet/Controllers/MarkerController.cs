@@ -5,12 +5,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using PollutionApiDotNet.Models;
 using System;
+using Microsoft.AspNetCore.Cors;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace PollutionApiDotNet.Controllers
 {
     [Route("api/marker")]
+    [EnableCors("AllowOrigin")]
     [ApiController]
     public class MarkerController : ControllerBase
     {
