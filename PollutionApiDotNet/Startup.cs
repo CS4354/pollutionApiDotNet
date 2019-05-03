@@ -43,8 +43,7 @@ namespace PollutionApiDotNet
             {
                 app.UseDeveloperExceptionPage();
             }
-            // app.UseHttpsRedirection();
-            app.UseCors("AllowOrigin"); 
+            app.UseCors("AllowOrigin");
             app.UseMvc();
         }
     }
